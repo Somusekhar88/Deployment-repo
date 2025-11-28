@@ -803,21 +803,21 @@
                         </div>
                     </li>
                     <li><a href="#"><em class="fas fa-fire"></i> Trending</a></li>
-                    <li><a href="#"><i class="fas fa-percent"></i> Deals</a></li>
-                    <li><a href="#"><i class="fas fa-info-circle"></i> About</a></li>
-                    <li><a href="#"><i class="fas fa-envelope"></i> Contact</a></li>
+                    <li><a href="#"><em class="fas fa-percent"></i> Deals</a></li>
+                    <li><a href="#"><em class="fas fa-info-circle"></i> About</a></li>
+                    <li><a href="#"><em class="fas fa-envelope"></i> Contact</a></li>
                 </ul>
             </nav>
             
             <div class="search-bar">
                 <input type="text" placeholder="Search products...">
-                <button type="submit"><i class="fas fa-search"></i></button>
+                <button type="submit"><em class="fas fa-search"></i></button>
             </div>
             
             <div class="header-icons">
-                <a href="#"><i class="far fa-user"></i></a>
-                <a href="#"><i class="far fa-heart"></i></a>
-                <a href="#"><i class="fas fa-shopping-cart"></i><span class="cart-count">3</span></a>
+                <a href="#"><em class="far fa-user"></i></a>
+                <a href="#"><em class="far fa-heart"></i></a>
+                <a href="#"><em class="fas fa-shopping-cart"></i><span class="cart-count">3</span></a>
                 <button class="mobile-menu-btn" id="mobileMenuBtn"><i class="fas fa-bars"></i></button>
             </div>
         </div>
