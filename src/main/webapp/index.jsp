@@ -792,33 +792,33 @@
                 <ul>
                     <li><a href="#"><em class="fas fa-home"></em> Home</a></li>
                     <li class="dropdown">
-                        <a href="#"><i class="fas fa-th-large"></i> Categories <i class="fas fa-chevron-down"></i></a>
+                        <a href="#"><em class="fas fa-th-large"></i> Categories <em class="fas fa-chevron-down"></i></a>
                         <div class="dropdown-content">
-                            <a href="#"><i class="fas fa-mobile-alt"></i> Smartphones</a>
-                            <a href="#"><i class="fas fa-laptop"></i> Laptops</a>
-                            <a href="#"><i class="fas fa-tshirt"></i> Clothing</a>
-                            <a href="#"><i class="fas fa-headphones"></i> Gadgets</a>
-                            <a href="#"><i class="fas fa-shoe-prints"></i> Footwear</a>
-                            <a href="#"><i class="fas fa-watch"></i> Accessories</a>
+                            <a href="#"><em class="fas fa-mobile-alt"></i> Smartphones</a>
+                            <a href="#"><em class="fas fa-laptop"></i> Laptops</a>
+                            <a href="#"><em class="fas fa-tshirt"></i> Clothing</a>
+                            <a href="#"><em class="fas fa-headphones"></i> Gadgets</a>
+                            <a href="#"><em class="fas fa-shoe-prints"></i> Footwear</a>
+                            <a href="#"><em class="fas fa-watch"></i> Accessories</a>
                         </div>
                     </li>
-                    <li><a href="#"><i class="fas fa-fire"></i> Trending</a></li>
-                    <li><a href="#"><i class="fas fa-percent"></i> Deals</a></li>
-                    <li><a href="#"><i class="fas fa-info-circle"></i> About</a></li>
-                    <li><a href="#"><i class="fas fa-envelope"></i> Contact</a></li>
+                    <li><a href="#"><em class="fas fa-fire"></i> Trending</a></li>
+                    <li><a href="#"><em class="fas fa-percent"></i> Deals</a></li>
+                    <li><a href="#"><em class="fas fa-info-circle"></i> About</a></li>
+                    <li><a href="#"><em class="fas fa-envelope"></i> Contact</a></li>
                 </ul>
             </nav>
             
             <div class="search-bar">
                 <input type="text" placeholder="Search products...">
-                <button type="submit"><i class="fas fa-search"></i></button>
+                <button type="submit"><em class="fas fa-search"></i></button>
             </div>
             
             <div class="header-icons">
-                <a href="#"><i class="far fa-user"></i></a>
-                <a href="#"><i class="far fa-heart"></i></a>
-                <a href="#"><i class="fas fa-shopping-cart"></i><span class="cart-count">3</span></a>
-                <button class="mobile-menu-btn" id="mobileMenuBtn"><i class="fas fa-bars"></i></button>
+                <a href="#"><em class="far fa-user"></i></a>
+                <a href="#"><em class="far fa-heart"></i></a>
+                <a href="#"><em class="fas fa-shopping-cart"></i><span class="cart-count">3</span></a>
+                <button class="mobile-menu-btn" id="mobileMenuBtn"><em class="fas fa-bars"></i></button>
             </div>
         </div>
     </header>
@@ -826,7 +826,7 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <h1>Summer Collection 2023</h1>
+            <h1>Summer Collection 2024</h1>
             <p>Discover the latest trends in fashion, technology and accessories with up to 40% off selected items</p>
             <div class="hero-buttons">
                 <a href="#" class="btn btn-primary">Shop Now</a>
@@ -844,32 +844,32 @@
         
         <div class="categories">
             <div class="category-card">
-                <div class="category-icon"><i class="fas fa-mobile-alt"></i></div>
+                <div class="category-icon"><em class="fas fa-mobile-alt"></i></div>
                 <h3>Smartphones</h3>
                 <p>Latest models from top brands</p>
             </div>
             <div class="category-card">
-                <div class="category-icon"><i class="fas fa-laptop"></i></div>
+                <div class="category-icon"><em class="fas fa-laptop"></i></div>
                 <h3>Laptops</h3>
                 <p>Powerful machines for work & play</p>
             </div>
             <div class="category-card">
-                <div class="category-icon"><i class="fas fa-tshirt"></i></div>
+                <div class="category-icon"><em class="fas fa-tshirt"></i></div>
                 <h3>Clothing</h3>
                 <p>Trendy outfits for every occasion</p>
             </div>
             <div class="category-card">
-                <div class="category-icon"><i class="fas fa-headphones"></i></div>
+                <div class="category-icon"><em class="fas fa-headphones"></i></div>
                 <h3>Gadgets</h3>
                 <p>Smart devices for modern life</p>
             </div>
             <div class="category-card">
-                <div class="category-icon"><i class="fas fa-shoe-prints"></i></div>
+                <div class="category-icon"><em class="fas fa-shoe-prints"></i></div>
                 <h3>Footwear</h3>
                 <p>Comfortable & stylish shoes</p>
             </div>
             <div class="category-card">
-                <div class="category-icon"><i class="fas fa-watch"></i></div>
+                <div class="category-icon"><em class="fas fa-watch"></i></div>
                 <h3>Accessories</h3>
                 <p>Complete your look</p>
             </div>
@@ -1076,10 +1076,10 @@
                     <h3>NexusShop</h3>
                     <p>Your one-stop destination for all the latest products in technology, fashion, and lifestyle.</p>
                     <div class="social-links">
-                        <a href="#"><i class="fab fa-facebook-f"></i></a>
-                        <a href="#"><i class="fab fa-twitter"></i></a>
-                        <a href="#"><i class="fab fa-instagram"></i></a>
-                        <a href="#"><i class="fab fa-youtube"></i></a>
+                        <a href="#"><em class="fab fa-facebook-f"></i></a>
+                        <a href="#"><em class="fab fa-twitter"></i></a>
+                        <a href="#"><em class="fab fa-instagram"></i></a>
+                        <a href="#"><em class="fab fa-youtube"></i></a>
                     </div>
                 </div>
                 <div class="footer-col">
